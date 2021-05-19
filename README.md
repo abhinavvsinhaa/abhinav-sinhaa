@@ -4,11 +4,11 @@ abhinav-sinhaa/abhinav-sinhaa is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A full stack web developer, and competitive coder.</h3>
+<h3 align="center">A full stack web developer, and a competitive coder.</h3>
 
 <p align="left"> <a href="https://twitter.com/abhinavsinha__" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavsinha__?logo=twitter&style=for-the-badge" alt="abhinavsinha__" /></a> </p>
 
-- 💬 Ask me about **dev**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **abhinavvsinhaa@gmail.com**
 
