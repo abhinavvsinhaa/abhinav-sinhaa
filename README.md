@@ -14,8 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhinavsinha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="abhinavsinha__" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15894303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15894303" height="30" width="40" /></a>
+Twitter <a href="https://twitter.com/abhinavsinha__" target="blank"></a>
+<br>  
+Stack overflow <a href="https://stackoverflow.com/users/15894303" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
