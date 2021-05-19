@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Twitter <a href="https://twitter.com/abhinavsinha__" target="blank"></a>
+Twitter <a href="https://twitter.com/abhinavsinha__" target="blank">@abhinavsinha_</a>
 <br>  
-Stack overflow <a href="https://stackoverflow.com/users/15894303" target="blank"></a>
+Stack overflow <a href="https://stackoverflow.com/users/15894303" target="blank">Abhinav Sinha</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
